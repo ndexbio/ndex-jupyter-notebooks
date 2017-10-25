@@ -93,3 +93,4 @@ ENV/
 # pycharm
 .idea
 .idea/*
+.idea/workspace.xml
