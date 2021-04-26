@@ -7,7 +7,7 @@ This repository contains tutorials and code examples to work with networks using
 In this tutorial you will learn to use the ndex2 Python client. The ndex2 client is a module that simplifies access to the NDEx Server API and provides convenience methods for common operations on networks. [**>> Go to Tutorial**](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/NDEx2%20Client%20v2.0%20Tutorial.ipynb)
 
 ## [ndex2 Client Tutorial: Querying networks](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/NDEx%20Query%20Tutorial.ipynb)
-This tutorial shows how to query networks in NDEx and extract a subset of the data using both the ndex2 client and NiceCX object class. [**>> Go to Tutorial**](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/NDEx%20Query%20Tutorial.ipynb)
+This tutorial shows how to query networks in NDEx, extract a subset of the data  and display the results using both the ndex2 client and NiceCX object class. [**>> Go to Tutorial**](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/NDEx%20Query%20Tutorial.ipynb)
 
 ## [NiceCX Tutorial](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/NiceCX%20v2.0%20Tutorial.ipynb)
 In this tutorial you will learn to use NiceCX, a simple data model that is part of the ndex2 client module. NiceCX facilitates creating and working with networks, including interfaces to NetworkX and Pandas. [**>> Go to Tutorial**](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/NiceCX%20v2.0%20Tutorial.ipynb)
