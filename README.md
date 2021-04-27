@@ -1,7 +1,8 @@
 # NDEx Jupyter Notebooks Tutorials
 This repository contains tutorials and code examples to work with networks using the ndex2 Python Client and NiceCX object class. These tutorials requires Python 3.6+ and the ndex2 module. See the [ndex2 client](https://github.com/ndexbio/ndex2-client#readme) for installation instructions.
 
-=================================================================================================
+#
+#
 
 ## [ndex2 Client Tutorial](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/NDEx2%20Client%20v2.0%20Tutorial.ipynb)
 In this tutorial you will learn to use the ndex2 Python client. The ndex2 client is a module that simplifies access to the NDEx Server API and provides convenience methods for common operations on networks. [**>> Go to Tutorial**](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/NDEx2%20Client%20v2.0%20Tutorial.ipynb)
