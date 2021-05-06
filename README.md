@@ -4,6 +4,9 @@ This repository contains tutorials and code examples to work with networks using
 #
 #
 
+## [Protocol 4: Working with NDEx Networks in Python](https://github.com/rpillich/ndex-jupyter-notebooks/blob/master/notebooks/Working%20with%20NDEx%20Networks%20in%20Python.ipynb)
+This notebook shows how to perform some simple operations on networks stored in NDEx, using the ndex2 client and NiceCX class. This notebook is part of the latest NDEx publication in the journal Current Protocols in Bioinformatics (reference coming soon). [**>> Go to Tutorial**](https://github.com/rpillich/ndex-jupyter-notebooks/blob/master/notebooks/Working%20with%20NDEx%20Networks%20in%20Python.ipynb)
+
 ## [ndex2 Client v2.0 Tutorial](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/NDEx2%20Client%20v2.0%20Tutorial.ipynb)
 In this tutorial you will learn to use the ndex2 Python client. The ndex2 client is a module that simplifies access to the NDEx Server API and provides convenience methods for common operations on networks. [**>> Go to Tutorial**](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/NDEx2%20Client%20v2.0%20Tutorial.ipynb)
 
