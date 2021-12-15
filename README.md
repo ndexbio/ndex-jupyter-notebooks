@@ -1,3 +1,4 @@
+#
 # NDEx Jupyter Notebook Tutorials
 This repository contains tutorials and code examples to work with networks using the ndex2 Python Client and NiceCX object class. 
 
@@ -49,12 +50,12 @@ Network Sets are used to group networks. They are essentially sets of "bookmarks
 ## [Access Node, Edge, and Network Attributes in NiceCX](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/Access%20node%2C%20edge%2C%20and%20network%20attributes%20in%20NiceCX.ipynb)
 This notebook shows how to access the elements of the NiceCX network object.
 
-#
-## Legacy Tutorials
-#
-
 ## [Protocol 3: Working with NDEx Networks in Python](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/Working%20with%20NDEx%20Networks%20in%20Python.ipynb)
-This notebook shows how to perform simple operations on networks stored in NDEx, using the ndex2 client and NiceCX class. This notebook is part of the latest NDEx publication in the journal Current Protocols in Bioinformatics (reference coming soon). [**>> Go to Tutorial**](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/Working%20with%20NDEx%20Networks%20in%20Python.ipynb)
+This notebook shows how to perform simple operations on networks stored in NDEx, using the ndex2 client and NiceCX class. This notebook is part of the publication: "NDEx: Accessing Network Models and Streamlining Network Biology Workflows" (Curr Protoc. 2021 Sep;1(9):e258. doi: [10.1002/cpz1.258](https://doi.org/10.1002/cpz1.258)).
+
+
+#
+# Legacy Tutorials
 
 ## [ndex2 Client v2.0 Tutorial: Querying networks](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/NDEx%20Query%20Tutorial.ipynb)
 This tutorial shows how to query networks in NDEx, extract a subset of the data  and display the results using both the ndex2 client and NiceCX object class. [**>> Go to Tutorial**](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/NDEx%20Query%20Tutorial.ipynb)
