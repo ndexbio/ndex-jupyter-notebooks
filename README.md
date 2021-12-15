@@ -1,11 +1,17 @@
 # NDEx Jupyter Notebook Tutorials
 This repository contains tutorials and code examples to work with networks using the ndex2 Python Client and NiceCX object class. 
-These tutorials require Python 3.6+ and the ndex2 module. 
-See the [ndex2 client](https://github.com/ndexbio/ndex2-client#readme) for installation instructions.
+
+The tutorials require Python 3.6+ and the ndex2 module. See the [ndex2 client](https://github.com/ndexbio/ndex2-client#readme) for installation instructions.
+
 The Sphinx documentation for the ndex2 client package is at https://ndex2.readthedocs.io/en/latest/.
 
-## [Access node, edge, and network attributes in NiceCX](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/Access%20node%2C%20edge%2C%20and%20network%20attributes%20in%20NiceCX.ipynb)
-
+## [Style and Edit an NDEx Network](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/Style%20and%20Edit%20an%20NDEx%20Network.ipynb)
+This notebook shows how to:
+* Load a network from NDEx
+* Copy and apply a visual style from an existing template in NDEx
+* Save (upload) the modified network to your NDEx account
+* Apply a layout
+* Save (update) the modified network to your NDEx account
 
 ## [Edit an NDEx Network Using networkx and Save as a New Network](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/Edit%20an%20NDEx%20Network%20Using%20networkx%20and%20Save%20as%20a%20New%20Network.ipynb)
 This notebook shows how to:
@@ -27,14 +33,6 @@ This notebook shows how to create a NiceCX network from:
 * A NetworkX Network
 * A Pandas DataFrame
 
-## [Style and Edit an NDEx Network](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/Style%20and%20Edit%20an%20NDEx%20Network.ipynb)
-This notebook shows how to:
-* Load a network from NDEx
-* Copy and apply a visual style from an existing template in NDEx
-* Save (upload) the modified network to your NDEx account
-* Apply a layout
-* Save (update) the modified network to your NDEx account
-
 ## [Using NDEx Network Sets](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/Using%20NDEx%20Network%20Sets.ipynb)
 Network Sets are used to group networks. They are essentially sets of "bookmarks", where a network can belong to many different sets, created by different users. This notebook shows how to:
 * Get a network set
@@ -44,6 +42,9 @@ Network Sets are used to group networks. They are essentially sets of "bookmarks
 * Remove a network from a set
 * Rename a network set
 * Delete a network set
+
+## [Access node, edge, and network attributes in NiceCX](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/Access%20node%2C%20edge%2C%20and%20network%20attributes%20in%20NiceCX.ipynb)
+This notebook shows how to access the elements of the NiceCX network object.
 
 #
 ## Legacy Tutorials
