@@ -53,9 +53,9 @@ This notebook shows how to access the elements of the NiceCX network object.
 ## [Protocol 3: Working with NDEx Networks in Python](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/Working%20with%20NDEx%20Networks%20in%20Python.ipynb)
 This notebook shows how to perform simple operations on networks stored in NDEx, using the ndex2 client and NiceCX class. This notebook is part of the publication: "NDEx: Accessing Network Models and Streamlining Network Biology Workflows" (Curr Protoc. 2021 Sep;1(9):e258. doi: [10.1002/cpz1.258](https://doi.org/10.1002/cpz1.258)).
 
-
+<!--
 #
-# Legacy Tutorials
+# Legacy Tutorials - DEPRECATED - Do Not Use!
 
 ## [ndex2 Client v2.0 Tutorial: Querying networks](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/NDEx%20Query%20Tutorial.ipynb)
 This tutorial shows how to query networks in NDEx, extract a subset of the data  and display the results using both the ndex2 client and NiceCX object class. [**>> Go to Tutorial**](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/NDEx%20Query%20Tutorial.ipynb)
@@ -68,4 +68,5 @@ This tutorial is focused on accessing a network's nodes, edges and attributes. [
 
 ## [NiceCX v2.0 Tutorial: Prune Zero Degree Nodes](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/NiceCX%20v2.0%20prune%20zero%20degree%20nodes.ipynb)
 In this tutorial you will learn how to manipulate an NDEx network by converting it to a networkx graph() object. This tutorial requires **_Python 3.7 and networkx 2.4_**. [**>> Go to Tutorial**](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/NiceCX%20v2.0%20prune%20zero%20degree%20nodes.ipynb)
+-->
 
