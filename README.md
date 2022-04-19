@@ -56,7 +56,8 @@ This notebook shows how to perform simple operations on networks stored in NDEx,
 ## [Create an NDEx Network with Data Extracted from PubMed](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/Extract%20data%20from%20PubMed.ipynb)
 In this notebook, we show how to extract information from PubMed records using the XML ElementTree package, organize it in a Pandas dataframe and save it to NDEx as a network. The starting point of the notebook is a short list of PubMed IDs (PMIDS), so this example doesn't include any code to query the PubMed API.
 
-
+## [How to Reset Continuous Mappings in an NDEx Network using py4cytoscape](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/p4c-NDEx%20-%20Set%20continuous%20mapping%20on%20edge%20width.ipynb)
+This notebook shows how to reset the values used in a continuous mapping to match the actual range of values in the data rather then using the range of values present in the style template.
 <!--
 #
 # Legacy Tutorials - DEPRECATED - Do Not Use!
