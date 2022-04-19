@@ -54,8 +54,7 @@ This notebook shows how to access the elements of the NiceCX network object.
 This notebook shows how to perform simple operations on networks stored in NDEx, using the ndex2 client and NiceCX class. This notebook is part of the publication: "NDEx: Accessing Network Models and Streamlining Network Biology Workflows" (Curr Protoc. 2021 Sep;1(9):e258. doi: [10.1002/cpz1.258](https://doi.org/10.1002/cpz1.258)).
 
 ## [Create an NDEx Network with Data Extracted from PubMed](https://github.com/ndexbio/ndex-jupyter-notebooks/blob/master/notebooks/Extract%20data%20from%20PubMed.ipynb)
-In this notebook, we show how to extract information from PubMed records using XMLTree, organize it in a Pandas dataframe and save it to NDEx as a network.
-The starting point of the notebook is a short list of PubMed IDs (PMIDS), so this example doesn't include any code to query the PubMed API.
+In this notebook, we show how to extract information from PubMed records using the XML ElementTree package, organize it in a Pandas dataframe and save it to NDEx as a network. The starting point of the notebook is a short list of PubMed IDs (PMIDS), so this example doesn't include any code to query the PubMed API.
 
 
 <!--
