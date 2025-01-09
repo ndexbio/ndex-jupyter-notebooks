@@ -1,0 +1,81 @@
+[
+  {
+    "CXVersion": "2.0",
+    "hasFragments": false
+  },
+  {
+    "metaData": [
+      {
+        "name": "attributeDeclarations",
+        "elementCount": 1
+      },
+      {
+        "name": "nodes",
+        "elementCount": 2
+      },
+      {
+        "name": "edges",
+        "elementCount": 1
+      }
+    ]
+  },
+  {
+    "attributeDeclarations": [
+      {
+        "nodes": {
+          "represents": {
+            "a": "r",
+            "d": "string"
+          },
+          "name": {
+            "a": "n",
+            "d": "string"
+          }
+        },
+        "edges": {
+          "interaction": {
+            "a": "i",
+            "d": "string"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "nodes": [
+      {
+        "id": 1,
+        "v": {
+          "n": "node1",
+          "r": "ABC"
+        }
+      },
+      {
+        "id": 2,
+        "v": {
+          "n": "node2",
+          "r": "DEF"
+        }
+      }
+    ]
+  },
+  {
+    "edges": [
+      {
+        "id": 1,
+        "s": 1,
+        "t": 2,
+        "v": {
+          "i": "neighbor"
+        }
+      }
+    ]
+  },
+  {
+    "status": [
+      {
+        "success": true
+      }
+    ]
+  }
+]
